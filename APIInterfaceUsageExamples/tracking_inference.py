@@ -6,7 +6,7 @@ import torch
 
 if __name__ == '__main__':
     """
-    In the first stage of training, we conduct separate training.
+    
     Need:
         Trained VQPPF weight parameters
     """
