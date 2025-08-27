@@ -9,3 +9,8 @@ The overall pipeline of MtvTrack is shown in the figure below. The figure uses t
 ![Overall Pipeline](https://github.com/long-wa/MtvTrack-main/blob/master/assert/pipeline.png)
 :robot: Environment Configuration  
 Just configure it according to the baseline tracker. For example, you can configure the environment as in [OSTrack](https://github.com/botaoye/OSTrack).
+# Acknowledgement  
+Thanks to the following repo for providing us with a lot of convenience to implement our method.  
+[OSTrack](https://github.com/botaoye/OSTrack)  
+[SwinTrack](https://github.com/LitingLin/SwinTrack)  
+[ArTrack](https://github.com/MIV-XJTU/ARTrack)
