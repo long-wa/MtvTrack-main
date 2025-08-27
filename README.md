@@ -1,6 +1,6 @@
 # 项目名称
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
+:fire: Project Introduction  
 
 We provide the VQPPF functional module implemented in the MtvTrack paper and how to use the interface.  
 :fire:[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
