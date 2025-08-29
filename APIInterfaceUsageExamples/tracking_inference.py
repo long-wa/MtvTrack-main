@@ -53,6 +53,7 @@ if __name__ == '__main__':
         else:
             zqd_queue = zqd_queue[1:]
             zqd_queue.append(zq_d_pr)
+        frame_id += 1
 
     zq_d_pa = zqd_queue[0]
     zq_d_fu = LSTM.prediction(zq_d_pa, zq_d_pr)  # (1,64,2,2)
